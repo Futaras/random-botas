@@ -6,7 +6,7 @@ const { Player } = require("discord-player")
 
 const LOAD_SLASH = process.argv[2] == "load"
 
-const TOKEN = ""
+const TOKEN = "MTAxNzA5ODA2NTcyNDgzNzk5OA.G9oMx_.EGmhUxu2_HvRXmMl58ghiV-tnUM_g463yYoda0"
 const CLIENT_ID = ""
 
 const client = new Discord.Client({
